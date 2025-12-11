@@ -1,5 +1,7 @@
 # Read me if you want
 
+UI is alr, UX is bad, its usable tho
+
 You can check env variables in .env.example
 ```env
 # For sync:
